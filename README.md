@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moncerratt
 - 👀 I’m interested in instructional design
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on instructional design projects
+- 💞️ I’m looking to collaborate on eLearning projects
 - 📫 How to reach me: moperalt@iu.edu
 
 <!---
